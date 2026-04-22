@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="formato.xsl"?>
+
+<biblioteca>
+    <libro id="l1">
+        <titulo>Cien años de soledad</titulo>
+        <autor>Gabriel García Márquez</autor>
+        <anio>1967</anio>
+        <paginas>417</paginas>
+        <sinopsis>
+            Narra la historia de la familia Buendía a lo largo de varias generaciones en el pueblo ficticio de Macondo.
+        </sinopsis>
+    </libro>
+
+    <libro id="l2">
+        <titulo>Don Quijote de la Mancha</titulo>
+        <autor>Miguel de Cervantes</autor>
+        <anio>1605</anio>
+        <paginas>863</paginas>
+        <sinopsis>
+            Relata las aventuras de un hidalgo que enloquece leyendo libros de caballería y decide convertirse en caballero andante.
+        </sinopsis>
+    </libro>
+
+    <libro id="l3">
+        <titulo>La sombra del viento</titulo>
+        <autor>Carlos Ruiz Zafón</autor>
+        <anio>2001</anio>
+        <paginas>576</paginas>
+        <sinopsis>
+            Un joven descubre un libro misterioso que cambiará su vida, llevándolo a desentrañar secretos oscuros en la Barcelona del siglo XX.
+        </sinopsis>
+    </libro>
+</biblioteca>
