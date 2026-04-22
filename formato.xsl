@@ -98,7 +98,7 @@
 
 <div class="contenedor">
 
-<h1>📚 Biblioteca</h1>
+<h1>Biblioteca</h1>
 
 <h2>Índice de Libros</h2>
 
